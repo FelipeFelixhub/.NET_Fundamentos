@@ -1,0 +1,15 @@
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\bin\Debug\net6.0\.NET_Fundamentos.NET6.exe
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\bin\Debug\net6.0\.NET_Fundamentos.NET6.deps.json
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\bin\Debug\net6.0\.NET_Fundamentos.NET6.runtimeconfig.json
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\bin\Debug\net6.0\.NET_Fundamentos.NET6.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\bin\Debug\net6.0\.NET_Fundamentos.NET6.pdb
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.csproj.AssemblyReference.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.AssemblyInfoInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.AssemblyInfo.cs
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\refint\.NET_Fundamentos.NET6.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.pdb
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\.NET_Fundamentos.NET6.genruntimeconfig.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos.NET6\obj\Debug\net6.0\ref\.NET_Fundamentos.NET6.dll
