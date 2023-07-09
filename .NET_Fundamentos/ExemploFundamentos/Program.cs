@@ -1,6 +1,13 @@
 ﻿using Models;
 
+    // int[] arrayInteiros = new int[3];
 
+
+    // //ARRAY
+
+    //         int[] array = new int[4];
+    //         int[] array2 = new int[] { 10, 30, 40, 40 };
+    //         string[] nomes = { "JAN", "FEV" };
 
 
 

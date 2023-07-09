@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\.NET_fundamentos.csproj",
+      "projectUniqueName": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\.NET_fundamentos - Backup\\.NET_fundamentos.csproj",
       "projectName": ".NET_fundamentos",
-      "projectPath": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\.NET_fundamentos.csproj",
+      "projectPath": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\.NET_fundamentos - Backup\\.NET_fundamentos.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\obj\\",
+      "outputPath": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\.NET_fundamentos - Backup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages",

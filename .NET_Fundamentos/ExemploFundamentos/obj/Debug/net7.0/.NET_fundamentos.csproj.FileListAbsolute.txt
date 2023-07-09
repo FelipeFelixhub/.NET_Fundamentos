@@ -13,3 +13,11 @@ D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\obj\Debug\net7.0\refint\.NET_fundamen
 D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\obj\Debug\net7.0\.NET_fundamentos.pdb
 D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\obj\Debug\net7.0\.NET_fundamentos.genruntimeconfig.cache
 D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\obj\Debug\net7.0\ref\.NET_fundamentos.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.csproj.AssemblyReference.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.AssemblyInfoInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.AssemblyInfo.cs
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\refint\.NET_fundamentos.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\.NET_Fundamentos\ExemploFundamentos\obj\Debug\net7.0\.NET_fundamentos.pdb
