@@ -10,10 +10,7 @@ namespace ExemploExplorando.Models
         private string _nome;
         public string Nome 
         {
-             get
-             {
-                return _nome.ToUpper();
-            }
+             get => _nome.ToUpper();           
              
              set
              {
@@ -30,11 +27,8 @@ namespace ExemploExplorando.Models
 
         private int _idade;
         public int Idade 
-        { 
-            get
-            {
-                return _idade;
-            }
+        {
+            get => _idade;
             
             set
             {
