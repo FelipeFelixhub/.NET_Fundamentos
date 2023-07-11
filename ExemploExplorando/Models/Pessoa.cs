@@ -8,6 +8,8 @@ namespace ExemploExplorando.Models
     public class Pessoa
     {
         private string _nome;
+        private int _idade;
+
         public string Nome 
         {
              get => _nome.ToUpper();           
@@ -24,8 +26,12 @@ namespace ExemploExplorando.Models
             }
         }
 
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
-        private int _idade;
+
+
+
         public int Idade 
         {
             get => _idade;
@@ -34,7 +40,7 @@ namespace ExemploExplorando.Models
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Idade nao pode ser menor que 0!!");
+                    throw new ArgumentException("Idade nao pode ser menor que zero!!");
                 }
 
                 _idade = value;
@@ -43,7 +49,7 @@ namespace ExemploExplorando.Models
 
         public void Apresentar()
         {
-            System.Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            System.Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
