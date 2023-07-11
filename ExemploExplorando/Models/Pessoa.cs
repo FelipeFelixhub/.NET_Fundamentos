@@ -30,8 +30,6 @@ namespace ExemploExplorando.Models
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
 
-
-
         public int Idade 
         {
             get => _idade;
