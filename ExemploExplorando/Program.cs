@@ -2,7 +2,7 @@
 
 Pessoa p1 = new Pessoa(nome:"Felipe", sobrenome:"Felix");
 Pessoa p2 = new Pessoa(nome:"Henrique",sobrenome:"Souza Felix");
-Pessoa p3 = new Pessoa("Caroline", "Felix");
+Pessoa p3 = new Pessoa(nome:"Caroline",sobrenome: "Felix");
 
 Curso cursoDeIngles = new Curso();
 cursoDeIngles.Nome = "Ingles";
