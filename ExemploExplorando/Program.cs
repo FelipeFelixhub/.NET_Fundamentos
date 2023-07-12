@@ -1,14 +1,47 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
+// EXCECOES E COLECOES
+
+try
+{
+
+    string[] linhas = File.ReadAllLines("Arquivos/arquivooLeitura.txt");
+
+    foreach (string linha in linhas)
+    {
+        System.Console.WriteLine(linha);
+    }
+
+} catch(Exception ex)
+{
+    System.Console.WriteLine($"Ocorreu uma exception generica.{ex.Message}");
+}
 
 
-DateTime data = DateTime.Now;
-System.Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
 
 
 
 
 
+//-----------------------------------
+
+// string dataString = "2023-01-17 20:00";
+
+// bool sucesso = DateTime.TryParseExact(dataString,
+//                       "yyyy-MM-dd HH:mm",
+//                       CultureInfo.InvariantCulture,
+//                       DateTimeStyles.None, out DateTime data);
+// if (sucesso)
+// {
+//     System.Console.WriteLine($"Conversao com sucesso Data:  {data}");
+// }
+// else
+// {
+//     System.Console.WriteLine("Nao foi possivel a conversao!!");
+// }
+
+// DateTime data = DateTime.Now;
+// System.Console.WriteLine(data.ToString("dd/MM/yyyy HH:mm"));
 
 
 
