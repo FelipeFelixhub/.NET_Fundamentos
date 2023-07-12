@@ -5,16 +5,33 @@ using System.Globalization;
 try
 {
 
-    string[] linhas = File.ReadAllLines("Arquivos/arquivooLeitura.txt");
+    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
 
     foreach (string linha in linhas)
     {
         System.Console.WriteLine(linha);
     }
 
-} catch(Exception ex)
+
+
+}
+catch (FileNotFoundException ex)
+{
+    System.Console.WriteLine($"Ocorreu um erro na leitura do arquivo.{ex.Message}");
+}
+
+catch (DirectoryNotFoundException ex)
+{
+    System.Console.WriteLine($"Caminho da pasta nao encontrado.{ex.Message}");
+}
+
+catch (Exception ex)
 {
     System.Console.WriteLine($"Ocorreu uma exception generica.{ex.Message}");
+}
+finally
+{
+    System.Console.WriteLine("Chegou ate aqui!!");
 }
 
 
