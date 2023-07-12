@@ -3,32 +3,63 @@ using System.Globalization;
 
 // COLECOES
 
+//DICTIONARY
+
+Dictionary<string, string> estados = new Dictionary<string, string>();
+
+estados.Add("SP", "Sao Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MG", "Minas Gerais");
+
+foreach (var item in estados)
+{
+    System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+System.Console.WriteLine("-----------------------");
+
+estados.Remove("BA");
+estados["SP"] = "SP agora é Santo André";
+
+foreach (var item in estados)
+{
+    System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
+
+string chave = "SP";
+System.Console.WriteLine($"Verificando o elemento: {chave}");
+
+if (estados.ContainsKey(chave))
+{
+    System.Console.WriteLine($"Valor existente: {chave}");
+}
+else
+{
+    System.Console.WriteLine($"Valor nao existe. É possivel add a chave: {chave}");
+}
+
+
+
 //PILHA - STACK
 
-Stack<int> pilha = new Stack<int>();
+// Stack<int> pilha = new Stack<int>();
 
-pilha.Push(10);
-pilha.Push(20);
-pilha.Push(30);
-pilha.Push(40);
+// pilha.Push(10);
+// pilha.Push(20);
+// pilha.Push(30);
+// pilha.Push(40);
 
-foreach (int item in pilha)
-{
-    System.Console.WriteLine(item);
-}
+// foreach (int item in pilha)
+// {
+//     System.Console.WriteLine(item);
+// }
 
-System.Console.WriteLine($"Removendo o elemento do topo da pilha {pilha.Pop()}");
+// System.Console.WriteLine($"Removendo o elemento do topo da pilha {pilha.Pop()}");
 
-foreach (int item in pilha)
-{
-    System.Console.WriteLine(item);
-}
-
-
-
-
-
-
+// foreach (int item in pilha)
+// {
+//     System.Console.WriteLine(item);
+// }
 
 
 
