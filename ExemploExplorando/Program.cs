@@ -1,13 +1,33 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
+// COLECOES
+
+//FILA - QUEUE
+
+Queue<int> fila = new Queue<int>();
+
+fila.Enqueue(1);
+fila.Enqueue(2);
+fila.Enqueue(3);
+
+foreach (int item in fila)
+{
+    System.Console.WriteLine(item);
+}
+
+System.Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+
+foreach (int item in fila)
+{
+    System.Console.WriteLine(item);
+}
 
 
 
 
 
-
-
+//-----------------------------
 // EXCECOES
 
 
