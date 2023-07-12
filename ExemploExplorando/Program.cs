@@ -3,25 +3,55 @@ using System.Globalization;
 
 // COLECOES
 
+//PILHA - STACK
+
+Stack<int> pilha = new Stack<int>();
+
+pilha.Push(10);
+pilha.Push(20);
+pilha.Push(30);
+pilha.Push(40);
+
+foreach (int item in pilha)
+{
+    System.Console.WriteLine(item);
+}
+
+System.Console.WriteLine($"Removendo o elemento do topo da pilha {pilha.Pop()}");
+
+foreach (int item in pilha)
+{
+    System.Console.WriteLine(item);
+}
+
+
+
+
+
+
+
+
+
+
 //FILA - QUEUE
 
-Queue<int> fila = new Queue<int>();
+// Queue<int> fila = new Queue<int>();
 
-fila.Enqueue(1);
-fila.Enqueue(2);
-fila.Enqueue(3);
+// fila.Enqueue(1);
+// fila.Enqueue(2);
+// fila.Enqueue(3);
 
-foreach (int item in fila)
-{
-    System.Console.WriteLine(item);
-}
+// foreach (int item in fila)
+// {
+//     System.Console.WriteLine(item);
+// }
 
-System.Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+// System.Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
 
-foreach (int item in fila)
-{
-    System.Console.WriteLine(item);
-}
+// foreach (int item in fila)
+// {
+//     System.Console.WriteLine(item);
+// }
 
 
 
