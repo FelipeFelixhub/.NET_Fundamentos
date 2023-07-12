@@ -1,41 +1,50 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
-// EXCECOES E COLECOES
-
-try
-{
-
-    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
-
-    foreach (string linha in linhas)
-    {
-        System.Console.WriteLine(linha);
-    }
 
 
 
-}
-catch (FileNotFoundException ex)
-{
-    System.Console.WriteLine($"Ocorreu um erro na leitura do arquivo.{ex.Message}");
-}
-
-catch (DirectoryNotFoundException ex)
-{
-    System.Console.WriteLine($"Caminho da pasta nao encontrado.{ex.Message}");
-}
-
-catch (Exception ex)
-{
-    System.Console.WriteLine($"Ocorreu uma exception generica.{ex.Message}");
-}
-finally
-{
-    System.Console.WriteLine("Chegou ate aqui!!");
-}
 
 
 
+
+
+// EXCECOES
+
+
+// new ExemploExcecao().Metodo1();
+
+
+// try
+// {
+
+//     string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+
+//     foreach (string linha in linhas)
+//     {
+//         System.Console.WriteLine(linha);
+//     }
+
+
+
+// }
+// catch (FileNotFoundException ex)
+// {
+//     System.Console.WriteLine($"Ocorreu um erro na leitura do arquivo.{ex.Message}");
+// }
+
+// catch (DirectoryNotFoundException ex)
+// {
+//     System.Console.WriteLine($"Caminho da pasta nao encontrado.{ex.Message}");
+// }
+
+// catch (Exception ex)
+// {
+//     System.Console.WriteLine($"Ocorreu uma exception generica.{ex.Message}");
+// }
+// finally
+// {
+//     System.Console.WriteLine("Chegou ate aqui!!");
+// }
 
 
 
