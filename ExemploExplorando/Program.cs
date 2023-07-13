@@ -3,21 +3,42 @@ using System.Globalization;
 
 //TUPLAS
 
-(int, string, string) tupla = (1, "Felipe", "Felix");
-ValueTuple<int, string, string> tupla2 = (2, "Henrique", "Felix");
 
-System.Console.WriteLine(tupla);
-System.Console.WriteLine(tupla2);
+Pessoa p1 = new Pessoa("Felipe", "Felix");
 
+(string nome, string sobrenome) = p1;
 
-
+System.Console.WriteLine(nome + sobrenome);
 
 
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
+//     //System.Console.WriteLine($"Quantidade linhas do aquivo: {quantidadeLinhas}");
+//     foreach (string linha in linhasArquivo)
+//     {
+//         System.Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//     System.Console.WriteLine("Não foi possivel ler o arquivo");
+// }
 
 
 
 
 
+
+
+// (int, string, string) tupla = (1, "Felipe", "Felix");
+// ValueTuple<int, string, string> tupla2 = (2, "Henrique", "Felix");
+
+// System.Console.WriteLine(tupla);
+// System.Console.WriteLine(tupla2);
 
 
 
