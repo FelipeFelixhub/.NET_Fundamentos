@@ -2,11 +2,15 @@
   {
     "Id": 1,
     "Produto": "Material de escritorio",
-    "Preco": 25.00
+    "Preco": 25.00,
+    "DataVenda": "2023-07-13T20:05:19.5374099-03:00"
   },
   {
     "Id": 2,
     "Produto": "Licenca de Software",
-    "Preco": 130.00
+    "Preco": 130.00,
+    "DataVenda": "2023-07-13T20:05:19.5374099-03:00"
   }
 ]
+
+//ISO 8601
