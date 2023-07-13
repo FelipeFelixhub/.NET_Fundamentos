@@ -1,13 +1,16 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
+
+
+
+
 // TERNARIO
 
-int numero = 20;
-bool ehPar = false;
+// int numero = 20;
+// bool ehPar = false;
 
-ehPar = numero % 2 == 0;
-System.Console.WriteLine($"O numero {numero} é " + (ehPar ? "par" : "impar"));
-
+// ehPar = numero % 2 == 0;
+// System.Console.WriteLine($"O numero {numero} é " + (ehPar ? "par" : "impar"));
 
 
 
