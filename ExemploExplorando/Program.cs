@@ -1,14 +1,26 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
+// TERNARIO
+
+int numero = 20;
+bool ehPar = false;
+
+ehPar = numero % 2 == 0;
+System.Console.WriteLine($"O numero {numero} é " + (ehPar ? "par" : "impar"));
+
+
+
+
+//--------------------------
 
 //TUPLAS
 
 
-Pessoa p1 = new Pessoa("Felipe", "Felix");
+// Pessoa p1 = new Pessoa("Felipe", "Felix");
 
-(string nome, string sobrenome) = p1;
+// (string nome, string sobrenome) = p1;
 
-System.Console.WriteLine(nome + sobrenome);
+// System.Console.WriteLine(nome + sobrenome);
 
 
 // LeituraArquivo arquivo = new LeituraArquivo();
