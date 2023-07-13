@@ -13,3 +13,5 @@ D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploExplorando\obj\Debug\net6.0\re
 D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete
