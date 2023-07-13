@@ -1,42 +1,66 @@
 ﻿using ExemploExplorando.Models;
 using System.Globalization;
 
+//TUPLAS
+
+(int, string, string) tupla = (1, "Felipe", "Felix");
+ValueTuple<int, string, string> tupla2 = (2, "Henrique", "Felix");
+
+System.Console.WriteLine(tupla);
+System.Console.WriteLine(tupla2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ----------------------------
+
 // COLECOES
 
 //DICTIONARY
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
+// Dictionary<string, string> estados = new Dictionary<string, string>();
 
-estados.Add("SP", "Sao Paulo");
-estados.Add("BA", "Bahia");
-estados.Add("MG", "Minas Gerais");
+// estados.Add("SP", "Sao Paulo");
+// estados.Add("BA", "Bahia");
+// estados.Add("MG", "Minas Gerais");
 
-foreach (var item in estados)
-{
-    System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-}
+// foreach (var item in estados)
+// {
+//     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
 
-System.Console.WriteLine("-----------------------");
+// System.Console.WriteLine("-----------------------");
 
-estados.Remove("BA");
-estados["SP"] = "SP agora é Santo André";
+// estados.Remove("BA");
+// estados["SP"] = "SP agora é Santo André";
 
-foreach (var item in estados)
-{
-    System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
-}
+// foreach (var item in estados)
+// {
+//     System.Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
 
-string chave = "SP";
-System.Console.WriteLine($"Verificando o elemento: {chave}");
+// string chave = "SP";
+// System.Console.WriteLine($"Verificando o elemento: {chave}");
 
-if (estados.ContainsKey(chave))
-{
-    System.Console.WriteLine($"Valor existente: {chave}");
-}
-else
-{
-    System.Console.WriteLine($"Valor nao existe. É possivel add a chave: {chave}");
-}
+// if (estados.ContainsKey(chave))
+// {
+//     System.Console.WriteLine($"Valor existente: {chave}");
+// }
+// else
+// {
+//     System.Console.WriteLine($"Valor nao existe. É possivel add a chave: {chave}");
+// }
 
 
 
