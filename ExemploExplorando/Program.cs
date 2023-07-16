@@ -2,6 +2,27 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
+//TIPOS ANONIMOS
+
+
+// var tipoAnonimo = new { Nome = "Felipe", Sobrenome = "Felix", Idade = 31 };
+// System.Console.WriteLine($"Nome: {tipoAnonimo.Nome}");
+// System.Console.WriteLine($"Sobrnome: {tipoAnonimo.Sobrenome}");
+// System.Console.WriteLine($"Idade: {tipoAnonimo.Idade}");
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// var listaAnonimo = listaVenda.Select(x => new { x.Produto, x.Preco });
+
+// foreach (var venda in listaAnonimo)
+// {
+//     System.Console.WriteLine($"Produto: {venda.Produto}, Preco: {venda.Preco}");
+// }
+
+//------------------------------
+
 //TIPOS NULOS
 
 // bool? desejaReceberEmail = true;
