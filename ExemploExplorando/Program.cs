@@ -2,21 +2,35 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
+// METODOS DE EXTENSAO
+
+int numero = 17;
+bool ehPar = false;
+
+ehPar = numero.EhPar();
+System.Console.WriteLine($"O numero {numero} é " + (ehPar ? "par" : "impar"));
+
+
+
+
+
+
+//-------------------------
 
 //CLASSES GENERICAS
 
-MeuArray<int> arrayInteiro = new MeuArray<int>();
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
 
-arrayInteiro.AdicionarElementoArray(30);
+// arrayInteiro.AdicionarElementoArray(30);
 
-System.Console.WriteLine(arrayInteiro[0]);
+// System.Console.WriteLine(arrayInteiro[0]);
 
 
-MeuArray<string> arrayString = new MeuArray<string>();
+// MeuArray<string> arrayString = new MeuArray<string>();
 
-arrayString.AdicionarElementoArray("Felipe");
+// arrayString.AdicionarElementoArray("Felipe");
 
-System.Console.WriteLine(arrayString[0]);
+// System.Console.WriteLine(arrayString[0]);
 
 
 
