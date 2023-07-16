@@ -2,6 +2,30 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
+
+//CLASSES GENERICAS
+
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+arrayInteiro.AdicionarElementoArray(30);
+
+System.Console.WriteLine(arrayInteiro[0]);
+
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoArray("Felipe");
+
+System.Console.WriteLine(arrayString[0]);
+
+
+
+
+
+
+
+
+// -----------------------
 //TIPOS ANONIMOS
 
 
