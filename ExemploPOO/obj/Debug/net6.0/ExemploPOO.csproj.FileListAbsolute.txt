@@ -1,0 +1,15 @@
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
