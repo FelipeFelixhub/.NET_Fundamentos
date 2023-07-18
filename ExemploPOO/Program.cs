@@ -1,12 +1,20 @@
 ﻿using ExemploPOO.Models;
 
+//ClASSE OBJECT
+
+Computador cp = new Computador();
+System.Console.WriteLine(cp.ToString());
+
+
+
+//------------------
+
 //CLASSE ABSTRATA
 
-Corrente c = new Corrente();
+// Corrente c = new Corrente();
 
-c.Creditar(600);
-c.ExibirSaldo();
-
+// c.Creditar(600);
+// c.ExibirSaldo();
 
 
 
