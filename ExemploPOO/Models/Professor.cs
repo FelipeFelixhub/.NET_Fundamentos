@@ -17,7 +17,7 @@ namespace ExemploPOO.Models
         }
         public double Salario { get; set; }
 
-        public override void Apresentar()
+        public sealed override void Apresentar()
         {
             System.Console.WriteLine($"Olá, meu nome é {Nome}, tenho {Idade} anos, sou um professor e ganho {Salario} por mês!");
         }
