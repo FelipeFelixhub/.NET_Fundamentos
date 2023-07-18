@@ -1,9 +1,26 @@
 ﻿using ExemploPOO.Models;
+using ExemploPOO.Interfaces;
+
+//INTERFACE
+
+ICalculadora calc = new Calculadora();
+System.Console.WriteLine(calc.Multiplicar(4, 5));
+System.Console.WriteLine(calc.Dividir(20, 5));
+System.Console.WriteLine(calc.Somar(2, 5));
+System.Console.WriteLine(calc.Subtrair(30, 40));
+
+
+
+
+
+
+
+//------------------------------
 
 //ClASSE OBJECT
 
-Computador cp = new Computador();
-System.Console.WriteLine(cp.ToString());
+// Computador cp = new Computador();
+// System.Console.WriteLine(cp.ToString());
 
 
 
