@@ -1,26 +1,33 @@
 ﻿using ExemploPOO.Models;
 
+//CLASSE ABSTRATA
 
-Aluno a1 = new Aluno();
-a1.Nome = "Felipe";
-a1.Idade = 31;
-a1.Nota = 10;
-a1.Apresentar();
+Corrente c = new Corrente();
 
-
-Professor p1 = new Professor();
-p1.Nome = "Humberto";
-p1.Idade = 45;
-p1.Salario = 15000;
-p1.Apresentar();
+c.Creditar(600);
+c.ExibirSaldo();
 
 
 
 
+//-----------------------------
+
+//HERANCA E POLIMORFISMO
+
+// Aluno a1 = new Aluno();
+// a1.Nome = "Felipe";
+// a1.Idade = 31;
+// a1.Nota = 10;
+// a1.Apresentar();
 
 
+// Professor p1 = new Professor();
+// p1.Nome = "Humberto";
+// p1.Idade = 45;
+// p1.Salario = 15000;
+// p1.Apresentar();
 
-
+//-------------------------------------
 
 
 // ContaCorrente c1 = new ContaCorrente(123, 1000);
