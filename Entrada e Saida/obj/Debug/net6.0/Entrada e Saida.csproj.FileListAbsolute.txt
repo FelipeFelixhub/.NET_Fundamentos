@@ -1,0 +1,15 @@
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\bin\Debug\net6.0\Entrada e Saida.exe
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\bin\Debug\net6.0\Entrada e Saida.deps.json
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\bin\Debug\net6.0\Entrada e Saida.runtimeconfig.json
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\bin\Debug\net6.0\Entrada e Saida.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\bin\Debug\net6.0\Entrada e Saida.pdb
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.csproj.AssemblyReference.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.AssemblyInfoInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.AssemblyInfo.cs
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.csproj.CoreCompileInputs.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\refint\Entrada e Saida.dll
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.pdb
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\Entrada e Saida.genruntimeconfig.cache
+D:\C#\Bootcamp Dio\ws-dio\.NET_fundamentos\Entrada e Saida\obj\Debug\net6.0\ref\Entrada e Saida.dll
