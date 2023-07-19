@@ -42,5 +42,3 @@ System.Console.WriteLine("Digite o sexo da pessoa (M/F): ");
 sexo = char.Parse(Console.ReadLine());
 
 System.Console.WriteLine($"A pessoa se chama {nome}, é do sexo {sexo}, recebe {salario.ToString("C2")} por mês e tem {idade} anos ");
-
-
