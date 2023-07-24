@@ -67,6 +67,7 @@ namespace ModuloAPI.Controllers
                 return NotFound();
             }
             _context.Contatos.Remove(contatoBanco);
+            _context.SaveChanges();
             return NoContent();
         }
     }
