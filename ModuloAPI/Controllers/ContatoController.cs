@@ -37,6 +37,13 @@ namespace ModuloAPI.Controllers
             return Ok(contato);
         }   
 
+        [HttpGet("ObterPorNome")]
+        public IActionResult ObterPorNome(string nome)
+        {
+            var contatos = _context.Contatos.Where(x => x.Nome.Contains(nome));
+            return Ok(contatos);
+        }
+
         [HttpPut("{id}")]
         public IActionResult Atualizar(int id, Contato contato)
         {
@@ -68,6 +75,7 @@ namespace ModuloAPI.Controllers
             }
             _context.Contatos.Remove(contatoBanco);
             _context.SaveChanges();
+
             return NoContent();
         }
     }
