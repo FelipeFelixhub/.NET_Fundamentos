@@ -18374,6 +18374,11 @@
   "RootNamespace": "ProjetoMVC",
   "Documents": [
     {
+      "FilePath": "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contato\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
