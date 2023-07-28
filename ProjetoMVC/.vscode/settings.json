@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c4276cb4-ec60-4b7d-a2fd-307bf74adc2f/resourceGroups/sistemamvc/providers/Microsoft.Web/sites/sistemamvcfelipefelix"
+}
