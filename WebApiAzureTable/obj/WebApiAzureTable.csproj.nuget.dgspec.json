@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj": {}
+    "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj": {}
   },
   "projects": {
-    "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj": {
+    "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj",
+        "projectUniqueName": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj",
         "projectName": "WebApiAzureTable",
-        "projectPath": "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj",
+        "projectPath": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\WebApiAzureTable.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\obj\\",
+        "outputPath": "D:\\C#\\Bootcamp Dio\\ws-dio\\.NET_fundamentos\\WebApiAzureTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages",
