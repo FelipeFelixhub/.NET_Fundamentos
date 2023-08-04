@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uxrs5Zb76z3hQ2uQxnYn0aFSMYQR22J/X4XQf+hrUvo=",
+  "Source": "AzureStorageAPI",
+  "BasePath": "_content/AzureStorageAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
