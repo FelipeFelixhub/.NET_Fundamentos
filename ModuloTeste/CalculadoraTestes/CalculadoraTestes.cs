@@ -33,9 +33,23 @@ public class CalculadoraTestes
         int num2 = 10;
 
         // Act
-        int resutado = _calc.Somar(num1, num2);
+        int resultado = _calc.Somar(num1, num2);
 
         // Assert
-        Assert.Equal(20, resutado);
+        Assert.Equal(20, resultado);
     }
+
+    [Fact]
+    public void DeveVerificarSe4EhParERetornarVerdadeiro()
+    {
+        // Arrange
+        int numero = 4;
+
+        // Act
+        bool resultado = _calc.EhPar(numero);
+
+        // Assert
+        Assert.True(resultado);
+    }
+
 }

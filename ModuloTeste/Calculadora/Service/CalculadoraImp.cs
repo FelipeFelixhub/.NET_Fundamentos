@@ -11,5 +11,10 @@ namespace Calculadora.Service
         {
             return num1 + num2;
         }
+
+        public bool EhPar(int numero)
+        {
+            return numero % 2 == 0;
+        }
     }
 }
