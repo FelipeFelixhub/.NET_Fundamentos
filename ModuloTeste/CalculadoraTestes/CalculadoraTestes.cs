@@ -52,4 +52,13 @@ public class CalculadoraTestes
         Assert.True(resultado);
     }
 
+    [Theory]
+    [InlineData(new int[] { 2, 4 })]
+    [InlineData(new int[] { 6, 8, 10 })]
+    public void VerificandoSeOsNumerosSaoParOuImpar(int[] numeros)
+    {
+        // Act / Assert
+        Assert.All(numeros, num => Assert.True(_calc.EhPar(num)));
+
+    }
 }
